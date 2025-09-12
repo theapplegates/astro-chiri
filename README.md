@@ -54,7 +54,7 @@ Check the [demo](https://astro-chiri.netlify.app/) for more details.
 - `pnpm update-theme` - Update the theme to the latest version
 
 ## References
-
+4
 - https://paco.me/
 - https://benji.org/
 - https://shud.in/
